@@ -11,8 +11,8 @@ module.exports = (server) => {
 			from = to - query.limit,
 			courses = server.db.getState().courses;
 		
-			if (!!query.textFragment) {
-				courses = courses.filter((course) => course.name.concat(course.description).toUpperCase().indexOf(query.textFragment.toUpperCase()) >= 0);
+			if (!!query.word) {
+				courses = courses.filter((course) => course.name.concat(course.description).toUpperCase().indexOf(query.word.toUpperCase()) >= 0);
 			}
 
 		if (courses.length < to || !to) {
