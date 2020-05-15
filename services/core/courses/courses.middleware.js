@@ -24,6 +24,7 @@ module.exports = (server) => {
 			count: courses.length
 		});
 	});
-	
+
+
 	return router;
 };
