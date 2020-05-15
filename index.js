@@ -23,8 +23,6 @@ walk('./services', function (err, results) {
 		server.use(ang.middleware);
 		server.use(ang.db);
 		
-		server.listen(3004, function () {
-			console.log('JSON Server is running on 3004');
-		});
+		server.listen(process.env.PORT, '0.0.0.0');
 	}
 });
