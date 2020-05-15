@@ -13,7 +13,7 @@
         "lastName": "Sosa"
       }
     ],
-    "length": 157
+    "duration": 157
   },
   {
     "id": 4980,
@@ -38,7 +38,7 @@
         "lastName": "Bright"
       }
     ],
-    "length": 207
+    "duration": 207
   },
   {
     "id": 4282,
@@ -58,7 +58,7 @@
         "lastName": "Cain"
       }
     ],
-    "length": 197
+    "duration": 197
   },
   {
     "id": 1936,
@@ -83,7 +83,7 @@
         "lastName": "Craig"
       }
     ],
-    "length": 232
+    "duration": 232
   },
   {
     "id": 2006,
@@ -113,7 +113,7 @@
         "lastName": "Mckay"
       }
     ],
-    "length": 42
+    "duration": 42
   },
   {
     "id": 1672,
@@ -138,7 +138,7 @@
         "lastName": "Bolton"
       }
     ],
-    "length": 52
+    "duration": 52
   },
   {
     "id": 3946,
@@ -163,7 +163,7 @@
         "lastName": "Perez"
       }
     ],
-    "length": 31
+    "duration": 31
   },
   {
     "id": 8464,
@@ -188,7 +188,7 @@
         "lastName": "Cunningham"
       }
     ],
-    "length": 269
+    "duration": 269
   },
   {
     "id": 5834,
@@ -203,7 +203,7 @@
         "lastName": "Vasquez"
       }
     ],
-    "length": 310
+    "duration": 310
   },
   {
     "id": 9664,
@@ -233,7 +233,7 @@
         "lastName": "Farley"
       }
     ],
-    "length": 274
+    "duration": 274
   },
   {
     "id": 8194,
@@ -263,7 +263,7 @@
         "lastName": "Butler"
       }
     ],
-    "length": 71
+    "duration": 71
   },
   {
     "id": 5688,
@@ -288,7 +288,7 @@
         "lastName": "Hernandez"
       }
     ],
-    "length": 171
+    "duration": 171
   },
   {
     "id": 2698,
@@ -303,7 +303,7 @@
         "lastName": "Hines"
       }
     ],
-    "length": 191
+    "duration": 191
   },
   {
     "id": 3747,
@@ -333,7 +333,7 @@
         "lastName": "Cash"
       }
     ],
-    "length": 41
+    "duration": 41
   },
   {
     "id": 6605,
@@ -348,7 +348,7 @@
         "lastName": "Huff"
       }
     ],
-    "length": 119
+    "duration": 119
   },
   {
     "id": 6703,
@@ -378,7 +378,7 @@
         "lastName": "Hopkins"
       }
     ],
-    "length": 358
+    "duration": 358
   },
   {
     "id": 4276,
@@ -398,7 +398,7 @@
         "lastName": "Nunez"
       }
     ],
-    "length": 52
+    "duration": 52
   },
   {
     "id": 5,
@@ -428,7 +428,7 @@
         "lastName": "Britt"
       }
     ],
-    "length": 55
+    "duration": 55
   },
   {
     "id": 5829,
@@ -448,7 +448,7 @@
         "lastName": "Eaton"
       }
     ],
-    "length": 284
+    "duration": 284
   },
   {
     "id": 9817,
@@ -478,7 +478,7 @@
         "lastName": "Sullivan"
       }
     ],
-    "length": 226
+    "duration": 226
   },
   {
     "id": 7454,
@@ -493,7 +493,7 @@
         "lastName": "Cote"
       }
     ],
-    "length": 283
+    "duration": 283
   },
   {
     "id": 8476,
@@ -508,7 +508,7 @@
         "lastName": "Reynolds"
       }
     ],
-    "length": 346
+    "duration": 346
   },
   {
     "id": 6240,
@@ -528,7 +528,7 @@
         "lastName": "Santos"
       }
     ],
-    "length": 267
+    "duration": 267
   },
   {
     "id": 5110,
@@ -548,7 +548,7 @@
         "lastName": "Cooke"
       }
     ],
-    "length": 59
+    "duration": 59
   },
   {
     "id": 3001,
@@ -578,7 +578,7 @@
         "lastName": "Brewer"
       }
     ],
-    "length": 155
+    "duration": 155
   },
   {
     "id": 7349,
@@ -608,7 +608,7 @@
         "lastName": "Mack"
       }
     ],
-    "length": 280
+    "duration": 280
   },
   {
     "id": 8324,
@@ -638,7 +638,7 @@
         "lastName": "Carlson"
       }
     ],
-    "length": 390
+    "duration": 390
   },
   {
     "id": 5848,
@@ -668,7 +668,7 @@
         "lastName": "Mcdowell"
       }
     ],
-    "length": 46
+    "duration": 46
   },
   {
     "id": 348,
@@ -683,7 +683,7 @@
         "lastName": "Bradley"
       }
     ],
-    "length": 262
+    "duration": 262
   },
   {
     "id": 133,
@@ -708,7 +708,7 @@
         "lastName": "Sampson"
       }
     ],
-    "length": 45
+    "duration": 45
   }
 ]
 }
